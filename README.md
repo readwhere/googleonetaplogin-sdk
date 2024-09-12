@@ -2,7 +2,6 @@
 
 ---
 
-change1 
 
 # Google One Tap SDK
 
