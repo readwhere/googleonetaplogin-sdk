@@ -35,7 +35,7 @@ A simple JavaScript SDK to integrate **Google One Tap Login** into your web appl
 You can clone this repository or download the SDK files.
 
 ```bash
-git clone https://github.com/yourusername/your-repo-name.git
+git clone https://github.com/readwhere/googleonetaplogin-sdk.git
 ```
 
 ### Step 2: Include the SDK in Your Project
@@ -43,7 +43,7 @@ git clone https://github.com/yourusername/your-repo-name.git
 You can include the SDK file in your HTML or JavaScript project.
 
 ```html
-<script src="path-to-your-sdk.js"></script>
+<script src="path-to-sdk.js"></script>
 ```
 
 
